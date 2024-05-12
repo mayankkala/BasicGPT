@@ -1,4 +1,4 @@
-##BasicGPT
+## BasicGPT
 ---
 ## Overview
 This project is an AI-powered chatbot that provides weather information based on user queries in English language. It utilizes OpenAI API for natural language processing, Groq API for weather data retrieval, and integrates with ChatGPT for enhanced conversational capabilities.
